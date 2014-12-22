@@ -9,7 +9,7 @@ Image segmentation and classification based on discriminatively-trained Markov r
 * CMake
 
 ## Compilation
-(Example) From the toplevel source directory:
+(Example) From the top-level source directory:
 ```
 mkdir build
 cd build
