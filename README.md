@@ -3,11 +3,6 @@ mrf-image-classifier
 
 Image segmentation and classification based on discriminatively-trained Markov random fields
 
-mrf-image-classifier
-====================
-
-Image segmentation and classification based on discriminatively-trained Markov random fields
-
 ## Dependencies
 * OpenCV
 * Boost (reasonably recent version)
